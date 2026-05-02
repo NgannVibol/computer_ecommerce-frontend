@@ -38,9 +38,6 @@ const HeroSection = () => {
     }
   ];
 
-  // Reliable background image
-  const backgroundImage = "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=1600&auto=format&fit=crop";
-
   // Initial load animation trigger
   useEffect(() => {
     setTimeout(() => setLoaded(true), 200);
