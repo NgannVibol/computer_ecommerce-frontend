@@ -1,0 +1,8 @@
+1. Create the project project
+2. Update npm or install 
+   npm update or npm install
+3. Customize page
+   - App.js and App.css
+4. Create in Reactjs
+   - npm install react-router-dom
+5. 
